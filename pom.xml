@@ -23,7 +23,7 @@
 
 
     <build>
-        <finalName>ninja-pam.war</finalName>
+        <finalName>ninja-pam</finalName>
         <plugins>
 
             <plugin>
